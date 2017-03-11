@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><petShop>
+    <dog>
+        <name>Bobik</name>
+        <weight>15</weight>
+        <poroda>Mops</poroda>
+   <privifka>От бешенства</privifka></dog>
+    <dog>
+        <name>Sharik</name>
+        <weight>15</weight>
+        <poroda>Taksa</poroda>
+  <privifka>От бешенства</privifka></dog>
+<dog><name>Tom</name><weight>18</weight><poroda>dalmatinets</poroda></dog></petShop>
